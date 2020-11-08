@@ -1,24 +1,28 @@
 # dellhack5540-efi
 
-Clover EFI for Hackintoshing DELL Latitude E5540
- 
-My Laptops Specs:
-- Intel I218 Ethernet
-- DW1506 (AR9485)
-- Core i3 4010U
-- SSD x HDD
+EFI for Dell Latitude E5540 (Hackintosh)
 
-Working:
-- SD Card
-- Wifi
-- Ethernet
-- Backlight
-- HDMI
-- USB (no remap yet :< - 4 port
+Supported version:
+- macOS 10.14.6 (Mojave)
 
-Not Working/Stable
-- Touchpad (ALPS - i used VoodooPS2Controller when startup it's working for 15s and the mouse in desktop disappear)
-- VGA (i remap this port to DP but not working)
-- FN key
+My Laptop Specs:
+- Core i3 4010U with Intel HD4400
+- ALC292 (you will need a alcjack patch for noise)
+- 8GB of DDR3L
+- 120gb SSD x 120gb HDD
+
+What's working:
+- Ethernet (IntelMausiEthernet)
+- Touchpad (VoodooPS2ControllerR6)
+- Wifi (AtherosWifiInject)
+- ALC
+- USB (not remap yet)
+- PNLF (Brightness)
+- Battery Percents
+
+Not Working:
+- Sleep
+- FN key in keyboard (my laptop has a japanese keyboard)
+- Touchpad sometime freeze...
 
 You can re-build this EFI and share for Hackintosh's Community, yeah :)
