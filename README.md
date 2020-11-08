@@ -21,7 +21,7 @@ What's working:
 - Battery Percents
 
 Not Working:
-- Sleep
+- Sleep (Fix)
 - FN key in keyboard (my laptop has a japanese keyboard)
 - Touchpad sometime freeze...
 
