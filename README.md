@@ -4,6 +4,7 @@ EFI for Dell Latitude E5540 (Hackintosh)
 
 Supported version:
 - macOS 10.14.6 (Mojave)
+- macOS 10.13.6 (High Sierra)
 
 My Laptop Specs:
 - Core i3 4010U with Intel HD4400
@@ -21,7 +22,7 @@ What's working:
 - Battery Percents
 
 Not Working:
-- Sleep (Fixed)
+- Sleep
 - FN key in keyboard (my laptop has a japanese keyboard)
 - Touchpad sometime freeze...
 
