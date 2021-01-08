@@ -1,6 +1,6 @@
-# dellhack5540-efi
+# dell5540-efi
 
-EFI for Dell Latitude E5540 (Hackintosh)
+#EFI for Dell Latitude E5540 (Hackintosh)
 
 Supported version:
 - macOS 10.14.6 (Mojave)
@@ -11,19 +11,17 @@ My Laptop Specs:
 - ALC292 (you will need a alcjack patch for noise)
 - 8GB of DDR3L
 - 120gb SSD x 120gb HDD
+- AR9485 (It's VERY SLOW :<)
 
 What's working:
 - Ethernet (IntelMausiEthernet)
 - Touchpad (VoodooPS2ControllerR6)
 - Wifi (AtherosWifiInject)
-- ALC
+- ALC292 with layout 13
 - USB (not remap yet)
-- PNLF (Brightness)
+- PNLF (Brightness but FN key not working)
 - Battery Percents
 
 Not Working:
-- Sleep
-- FN key in keyboard (my laptop has a japanese keyboard)
-- Touchpad sometime freeze...
-
-You can re-build this EFI and share for Hackintosh's Community, yeah :)
+- Sleep <not fixed yet :<>
+- Touchpad sometime freeze... (i hate my trackpad :>)
