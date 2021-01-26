@@ -1,7 +1,9 @@
 # dell5540-efi
 
 #EFI for Dell Latitude E5540 (Hackintosh)
-Note: We no-longer supported this model with CLOVER (We are building Opencore to fixing this problem) due to the fact that USB (XHCI and EHxx) has critical problem!
+
+Note: We no-longer supported this model with CLOVER due to the fact that USB (XHCI and EHxx) has critical problem!
+OC (OpenCore) is going to be built... :3
 
 Supported version:
 - macOS 10.15.x (Catalina)
