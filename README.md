@@ -28,3 +28,5 @@ What's working:
 Not Working:
 - VGA Port (NEVER WORKING!)
 - Touchpad sometime freeze... (ALPS)
+
+Link: https://1drv.ms/u/s!AmHnQsJK7vXshD_bCqL_hbozbjym?e=FJm4hB
