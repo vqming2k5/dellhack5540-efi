@@ -1,6 +1,6 @@
 # dell5540-efi
 
-#EFI for Dell Latitude E5540 (Hackintosh)
+EFI for Dell Latitude E5540 (Hackintosh)
 
 Note: We no-longer supported this model with CLOVER due to the fact that USB (XHCI and EHxx) has critical problem!
 OC (OpenCore) is going to be built... :3
@@ -18,7 +18,7 @@ Specification:
 What's working:
 - Ethernet (IntelMausiEthernet)
 - Touchpad (VoodooPS2ControllerR6)
-- Wifi (AtherosWifiInject but it's very SLOW!)
+- Wifi (AtherosWifiInject but it's very SLOW! Replaced by itlwm.kext - Removed it if you don't have any INTEL CARD or you will have PANIC)
 - ALC292 with layout 13
 - 4 Ports USB (not remap yet)
 - Brightness
